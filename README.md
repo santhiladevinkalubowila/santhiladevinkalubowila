@@ -19,7 +19,12 @@
 - ⚡ Fun fact **love coding and exploring new technologies!**
 
 </td>
-
+<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=santhiladevinkalubowila&style=plastic&color=blueviolet" alt = "Profile Views"/>
+</p>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 <h3 align="center">My Statistics:</h3>
 <td width="50%" align="center">
 
