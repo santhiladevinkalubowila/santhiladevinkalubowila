@@ -35,7 +35,7 @@
 
 <h3 align="center">My Statistics:</h3>
 
-[![Santhila's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=santhiladevinkalubowila&theme=tokyonight)](https://git.io/praveenscience)
+
 
 | ![Santhila's github stats](https://github-readme-stats.vercel.app/api?username=santhiladevinkalubowila&show_icons=true&theme=tokyonight) | ![Santhila GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=santhiladevinkalubowila&theme=tokyonight) |
 | --- | --- |
